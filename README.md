@@ -21,6 +21,10 @@ This repository documents my journey through **bootcamp training**, **hands‑on
 - [Terraform Labs](./hands-on-labs/terraform-labs/)
 - [Ansible Labs](./hands-on-labs/ansible-labs/)
 - [Monitoring Labs](./hands-on-labs/monitoring-labs/)
+- [GitHub Actions Labs](./hands-on-labs/github-actions-labs/)
+- [Helm Labs](./hands-on-labs/helm-labs/)
+- [Python Labs](./hands-on-labs/python-labs/)
+- [Bash Labs](./hands-on-labs/bash-labs/)
 
 ### 3) Precedent Studies
 - [Index](./precedent-studies/)
