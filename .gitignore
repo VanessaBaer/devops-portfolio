@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Python/Node build artefacts (if any labs use them)
+__pycache__/
+dist/
+node_modules/
+
+# Screenshots and large files can live in repo, but avoid raw exports
+*.psd
+*.ai
