@@ -14,9 +14,6 @@ This repo shows the journey of writing our first Ansible playbook.
 
 ⚠️ **Note:** These notes are for study purposes only. Actual replication (e.g., `ansible -m ping` checks) requires a prepared environment with Vagrant/VMs and SSH keys, which is not available here.
 
-```mermaid
-flowchart TD
-    A[01-Precedent Study] --> B[02-Replication Lab] --> C[03-Improvements]
 
 # **Analysis of the Study**
 
